@@ -25,3 +25,6 @@ This value must be URL encoded.
 ##2. Example:
 
 `https://example.com/mycourse/tincan.html?actor=%7Bmbox%3Duser%40example.com%2Cname%3Dusername%7D`
+
+##3. Workflow:
+![](3rdparty_xapi_workflow.png)
