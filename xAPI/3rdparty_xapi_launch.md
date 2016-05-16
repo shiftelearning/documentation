@@ -1,13 +1,14 @@
 ![](http://assets.shiftelearning.com/logo/logo_s.png)
 
-#xAPI client URL format
+#Launching SHIFT content via 3rd party platforms
 
-This document show how to launch SHIFT content outside of an LMS, in a way that
-can be tracked by an LRS.
+This document shows how to launch SHIFT content outside of an LMS, in a way that can be tracked by an external LRS.
 
 It assumes that you have already set up xAPI's variables inside SHIFT. This will not work, unless those parameters are properly set.
 
-##1. General format:
+##1. General URL format:
+
+The content must be launched using a special URL. It is just the main file, plus an extra parameter:
 
 `<content_base_url>?&actor=<actor>`
 
