@@ -1,5 +1,3 @@
-![](http://assets.shiftelearning.com/logo/logo_s.png)
-
 # Launching SHIFT content via 3rd party platforms
 
 This document shows how to launch SHIFT content outside of an LMS, in a way that can be tracked by an external LRS.
